@@ -1,0 +1,15 @@
+header {
+  height: auto;
+  overflow: hidden;
+  background: rgb(58, 20, 79);
+  background: linear-gradient(5deg, rgba(58, 20, 79, 1) 13%, rgba(16, 7, 21, 1) 55%, rgba(48, 25, 94, 1) 100%);
+}
+
+h1 {
+  font-size: 72px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content {
+  height: 31vh;
+}
